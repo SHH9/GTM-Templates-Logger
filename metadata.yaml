@@ -1,3 +1,5 @@
+homepage: "",
+documentation: "",
 versions:
   - sha: 1c6d6104994e285e170fbc93b8620f2d1b1616ab
     changeNotes: Initial release.
